@@ -1,0 +1,15 @@
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.csproj.AssemblyReference.cache
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.AssemblyInfoInputs.cache
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.AssemblyInfo.cs
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.csproj.CoreCompileInputs.cache
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\bin\Debug\net6.0\DZ_Pizza_Pattern_1.exe
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\bin\Debug\net6.0\DZ_Pizza_Pattern_1.deps.json
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\bin\Debug\net6.0\DZ_Pizza_Pattern_1.runtimeconfig.json
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\bin\Debug\net6.0\DZ_Pizza_Pattern_1.dll
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\bin\Debug\net6.0\DZ_Pizza_Pattern_1.pdb
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.dll
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\refint\DZ_Pizza_Pattern_1.dll
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.pdb
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\DZ_Pizza_Pattern_1.genruntimeconfig.cache
+D:\Programierung\UML\DZ\DZ_Pizza_Pattern_1\DZ_Pizza_Pattern_1\obj\Debug\net6.0\ref\DZ_Pizza_Pattern_1.dll
